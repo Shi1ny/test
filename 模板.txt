@@ -1,0 +1,10 @@
+#AV1_NXT
+
+
+kate harm room
+turn "on" the melee bots in the current wave and add some ranged enemies to show that the Holodrone takes aggro when activated.
+
+#Buddy:David
+
+
+
